@@ -9,8 +9,8 @@ El proyecto fue pensado como un ecommerce de zapatillas jordan
 La pagina esta realizada en React. Para visualizarla, se debe correr con 'npm start'
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
-## Importante
-Se debe instalar tanto bootstrap como react-router-dom para poder abrir y utilizar correctamente la web.
+## Navegabilidad
+GIF [https://giphy.com/gifs/uW0PlTjauz7RduuVPd]
 
 ## `npm install react-bootstrap@next bootstrap@5.1.3` 
 
